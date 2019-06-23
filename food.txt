@@ -1,0 +1,6 @@
+1. Burger: 20 
+2. Pizza : 40
+3. Belgian waffles: 60
+4. Ice cream: 20
+5. Coffee: 10
+6. Cold Drink: 20
