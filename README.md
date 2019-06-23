@@ -1,7 +1,7 @@
 # Impressions
 A unique concept of making full working website by using C language of our college fest 'Impressions' 
 
-#List of Data Structure Used
+# List of Data Structure Used
 
 •	Linked List- We used linked list to store n number of details of users without consuming extra storage space as in arrays.
 
@@ -15,7 +15,7 @@ A unique concept of making full working website by using C language of our colle
 
 
 
-#Functions Used
+# Functions Used
 1.	void delay(int);- Delay function is used to suspend execution of a program for a particular time. Here unsigned int is the number of milliseconds (1 second = 1000 milliseconds). 
 
 2.	void gotoxy(int,int);- gotoxy function places cursor at a desired location on screen i.e., we can change cursor position using gotoxy function. Where (x, y) is the position where we want to place the cursor.
