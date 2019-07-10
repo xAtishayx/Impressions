@@ -1,5 +1,5 @@
 # Impressions
-A unique concept of making full working website by using C language of our college fest 'Impressions' 
+A unique concept of making CLI based app by using C language of our college fest 'Impressions'
 
 # List of Data Structure Used
 
