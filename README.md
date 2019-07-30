@@ -1,5 +1,5 @@
 # Impressions
-A unique concept of making CLI based app by using C language of our college fest 'Impressions'
+A CLI based application written in C. 
 
 # List of Data Structure Used
 
@@ -10,12 +10,8 @@ A unique concept of making CLI based app by using C language of our college fest
 •	Array- Used as a part in linked list node to store the choices given by the user.
 
 
-
-
-
-
-
 # Functions Used
+
 1.	void delay(int);- Delay function is used to suspend execution of a program for a particular time. Here unsigned int is the number of milliseconds (1 second = 1000 milliseconds). 
 
 2.	void gotoxy(int,int);- gotoxy function places cursor at a desired location on screen i.e., we can change cursor position using gotoxy function. Where (x, y) is the position where we want to place the cursor.
