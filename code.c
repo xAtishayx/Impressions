@@ -7,12 +7,13 @@
 #include <time.h>
 struct node
 {
-    char name[20];
-    int enroll;
-    int arr[5];
+   
     int cost;
     int count;
     struct node *next;
+    char name[20];
+    int enroll;
+    int arr[5];
 };
 
 typedef struct node node;
@@ -30,10 +31,10 @@ int pop();
 void hottest(int);
 void display();
 
-
+  //This is adding redundancy to the project, could have been looped
 char password[12]="impressions";
 
-
+//low security level in the project . add this in here . should be dynamic
 void search()
 {
     char n[20];
